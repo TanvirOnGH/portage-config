@@ -1,0 +1,15 @@
+sys-apps/baobab
+sys-apps/gsmartcontrol
+media-sound/pavucontrol
+sys-apps/intel-performance-counter-monitor
+sys-apps/gnome-disk-utility
+net-misc/keychain
+sys-block/gparted
+x11-misc/arandr
+app-misc/font-manager
+media-gfx/trufont
+media-gfx/fontforge
+x11-misc/gcolor2
+media-gfx/flameshot
+app-misc/metadata-cleaner
+app-crypt/seahorse

@@ -1,0 +1,34 @@
+# Doesn't have luajit
+app-text/highlight lua_single_target_lua5-3
+
+# Alexandre Rostovtsev <tetromino@gentoo.org> (2014-06-03)
+# Ensure shared-mime-info is pulled in by glib, otherwise GNOME, XFCE, and
+# numerous gtk-based applications will break, see bug #511894
+dev-libs/glib mime
+
+# Required by media-libs/mesa::gentoo[radeonsi]
+x11-libs/libdrm video_cards_radeon
+sys-devel/llvm llvm_targets_AMDGPU
+
+# Required by gnome-base/gvfs::gentoo[gnome-online-accounts] & gnome-extra/evolution-data-server::gentoo
+net-libs/libsoup vala
+
+# Required by sys-fs/udisks::gentoo[zram]
+sys-libs/libblockdev kbd
+
+# Required by sys-boot/os-prober::gentoo
+sys-boot/grub mount
+
+# Required by www-client/firefox::gentoo
+# [system-libvpx]
+media-libs/libvpx postproc
+# [pgo,X]
+x11-base/xorg-server xvfb
+# [wayland,pgo]
+gui-libs/wlroots tinywl
+
+# Building using a compiler other than clang may result in broken atomics
+sys-libs/compiler-rt clang
+sys-libs/compiler-rt-sanitizers clang
+sys-libs/libcxxabi clang
+sys-libs/libcxx clang

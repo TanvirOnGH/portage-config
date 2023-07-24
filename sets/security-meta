@@ -1,0 +1,8 @@
+sys-apps/bubblewrap
+sys-apps/dcfldd
+sys-apps/apparmor
+sys-apps/apparmor-utils
+sec-policy/apparmor-profiles
+sys-apps/apply-default-acl
+sys-apps/firejail
+sys-apps/elfix

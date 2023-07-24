@@ -1,0 +1,6 @@
+# Avoid pulling packages from 3rd-party overlays unless necessary or specified
+*/*::ROKO__
+*/*::src_prepare-overlay
+*/*::qgj
+*/*::guru
+*/*::xarblu-overlay

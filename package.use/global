@@ -1,0 +1,26 @@
+# Enables #
+# Optimization
+*/* custom-cflags lto pgo threads openmp large-stack
+# Compression
+*/* lz4 lzma lzo zstd bzip2 zip zlib lzip brotli
+# File
+*/* ftp
+# Security
+*/* cryptsetup lvm device-mapper tpm
+# Misc
+*/* icu idn xattr
+
+# Disables #
+# Unnecessary
+*/* -test -debug -valgrind
+*/* -doc -apudoc -gtk-doc -examples
+*/* -build -verify-sig
+*/* -cups -numa
+# Don't want
+*/* -multilib -multiarch -multilib-bootstrap -multilib-symlinks -native-cflags -dist-kernel
+# Language
+*/* -fortran -ada -java -vala -guile -lisp -common-lisp
+# Misc
+*/* -static-libs -static -pax-kernel -headers-only
+# Hardening/Optimization
+*/* -selinux -hardened -pic -pie -cet -ssp -seccomp -apparmor -vtv

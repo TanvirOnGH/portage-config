@@ -1,0 +1,3 @@
+sys-kernel/linux-firmware linux-fw-redistributable no-source-code
+x11-drivers/nvidia-drivers NVIDIA-r2
+sys-kernel/cachyos-sources GPL

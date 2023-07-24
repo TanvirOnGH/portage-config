@@ -1,0 +1,16 @@
+# Sensitive
+app-alternatives/gzip -reference
+app-alternatives/bzip2 -reference
+#- This is necessary to avoid issues resulting from running more than one sound server. (Since using pipewire)
+media-sound/pulseaudio -daemon
+
+# Rest
+app-admin/sudo -sendmail
+sys-auth/pambase -passwdqc -sha512
+dev-util/cmake -qt5 # Don't want cmake gui app
+sys-apps/systemd -cgroup-hybrid
+app-shells/bash -bashlogger
+dev-libs/gmp -cpudetection
+sys-libs/glibc -compile-locales
+sys-devel/clang-common -default-compiler-rt -default-libcxx -default-lld -llvm-libunwind
+www-client/firefox -clang -eme-free

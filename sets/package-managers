@@ -1,0 +1,6 @@
+sys-apps/nix
+sys-apps/yarn
+#sys-apps/pkgcore # problematic
+sys-apps/portage
+#sys-apps/guix # problematic
+#sys-apps/paludis # problematic

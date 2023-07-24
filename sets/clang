@@ -1,0 +1,5 @@
+sys-devel/llvm
+sys-libs/compiler-rt
+sys-libs/compiler-rt-sanitizers
+sys-devel/clang-runtime
+sys-devel/clang

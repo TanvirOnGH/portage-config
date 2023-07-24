@@ -1,0 +1,15 @@
+# https://wiki.gentoo.org/wiki/Hardware_detection
+app-portage/cpuid2cpuflags
+sys-apps/lshw
+sys-apps/pciutils
+sys-apps/usbutils
+sys-apps/cpuid
+sys-apps/cpu-x
+sys-apps/crazydiskinfo
+sys-apps/hwinfo
+sys-apps/lshw
+sys-apps/syscriptor
+sys-apps/x86info
+sys-apps/dmidecode
+sys-apps/inxi
+sys-apps/input-utils

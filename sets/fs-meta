@@ -1,0 +1,16 @@
+sys-fs/lvm2
+sys-fs/mtools
+sys-fs/ntfs3g
+sys-fs/squashfs-tools
+sys-fs/dosfstools
+sys-fs/e2fsprogs
+sys-fs/exfatprogs
+#sys-fs/exfat-utils
+sys-fs/btrfs-progs
+sys-fs/squashfs-tools-ng
+sys-fs/squashfuse
+sys-fs/cryptsetup
+sys-fs/cryptmount
+sys-fs/fatcat
+sys-fs/fuse:0
+sys-fs/fuse:3

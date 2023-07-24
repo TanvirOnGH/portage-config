@@ -1,0 +1,4 @@
+media-sound/pulseaudio
+media-video/pipewire
+media-plugins/gst-plugins-meta
+media-libs/mutagen

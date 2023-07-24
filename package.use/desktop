@@ -1,0 +1,15 @@
+*/* dbus policykit gnome-keyring networkmanager pulseaudio alsa libnotify startup-notification appindicator unicode
+*/* vulkan vulkan-overlay vaapi vdpau nvenc
+*/* X wayland gtk gtk2 gtk3 gtk4 qt qt5 qt6 gui opengl xinerama
+# Image
+*/* avif apng png svg gif png jpeg svg exif webp jbig raw imlib heif eps jpeg2k jpegxl openexr
+# Media
+*/* ffmpeg a52 aac flac mad mng mp3 mp4 mpeg ogg sdl libass libvisual lame modplug opus taglib theora v4l vpx wavpack
+# Document
+*/* pdf epub djvu dvi xps
+# Misc
+*/* xml vnc xmp
+# Font
+*/* tiff woff2 cjk truetype
+# Essential
+*/* wifi bluetooth

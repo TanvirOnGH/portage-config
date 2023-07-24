@@ -1,0 +1,5 @@
+sys-boot/plymouth
+sys-boot/plymouth-openrc-plugin
+sys-boot/efibootmgr
+sys-boot/os-prober
+sys-boot/grub:2

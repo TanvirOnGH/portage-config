@@ -1,0 +1,10 @@
+app-portage/gentoolkit
+app-eselect/eselect-repository
+app-portage/eix
+app-portage/portage-utils
+app-portage/genlop
+app-portage/elicense
+app-portage/euses
+app-portage/pgo
+dev-util/pkgcheck
+app-portage/repoman

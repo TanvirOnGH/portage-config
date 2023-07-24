@@ -1,0 +1,4 @@
+dev-vcs/git
+dev-util/shellcheck
+dev-util/shfmt
+app-editors/vscode

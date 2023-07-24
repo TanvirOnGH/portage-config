@@ -1,0 +1,88 @@
+# Sensitive
+app-alternatives/bzip2 lbzip2
+app-alternatives/gzip pigz
+
+# Rest
+media-video/pipewire flatpak echo-cancel gsettings pipewire-alsa sound-server
+sys-kernel/cachyos-sources high-hz
+sys-fs/lvm2 thin
+app-admin/sudo offensive
+sys-apps/inxi hddtemp
+sys-apps/pciutils dns
+www-client/firefox geckodriver gmp-autoupdate hwaccel libproxy system-png
+gui-libs/wlroots x11-backend
+sys-devel/clang-runtime libcxx
+net-libs/nodejs inspector
+sys-devel/clang-toolchain-symlinks gcc-symlinks
+app-arch/zip natspec
+sys-process/htop delayacct lm-sensors
+media-video/ffmpeg amr amrenc bluray chromium codec2 fdk fontconfig gme hardcoded-tables libaom libcaca libdrm libv4l lv2 nvenc openal opencl openh264 openssl rav1e rubberband ssh svt-av1 twolame vidstab vmaf x265 zimg
+media-libs/rubberband vamp
+media-plugins/libvisual-plugins mplayer
+sys-kernel/linux-firmware compress initramfs redistributable
+gnome-base/gdm plymouth
+gnome-base/nautilus sendto
+media-libs/libsdl dga libcaca
+net-wireless/gnome-bluetooth sendto
+gnome-base/gvfs archive
+gnome-extra/zenity webkit
+sys-fs/udisks zram
+x11-base/xorg-server xephyr
+virtual/linux-sources firmware
+dev-libs/totem-pl-parser archive
+media-gfx/exiv2 webready
+media-sound/pulseaudio-daemon aptx equalizer
+media-libs/vulkan-loader layers
+media-libs/libavif dav1d rav1e
+dev-lang/ruby jit socks5
+dev-ruby/rubygems server
+media-libs/gst-plugins-base ivorbis
+media-libs/opus custom-modes
+media-libs/libheif rav1e x265
+net-wireless/iwd wired
+net-misc/networkmanager ppp iwd
+net-dialup/ppp activefilter
+dev-qt/qtnetwork sctp libproxy
+net-wireless/wpa_supplicant ap fasteap p2p tdls tkip wep wps
+x11-libs/libxkbcommon tools
+dev-libs/nss cacert
+dev-libs/newt gpm
+www-client/w3m gpm
+sys-apps/lm-sensors sensord
+media-libs/mesa lm-sensors vaapi vdpau
+virtual/rust rustfmt
+dev-lang/rust clippy nightly rust-analyzer profiler rust-src rustfmt system-llvm system-boostrap
+sys-devel/llvm xar
+sys-fs/cryptsetup urandom reencrypt pwquality
+media-libs/freetype harfbuzz
+dev-vcs/git cgi highlight tk
+media-fonts/liberation-fonts fontforge
+sys-apps/portage gentoo-dev
+app-portage/gemato pretty-log tools
+dev-python/requests socks5
+app-misc/ca-certificates cacert
+net-misc/openssh X509 hpn
+net-firewall/iptables nftables
+sys-apps/shadow bcrypt
+sys-auth/pambase pwquality pwhistory yescrypt
+net-misc/rsync stunnel xxhash
+sys-process/procps modern-top
+net-misc/wget metalink
+app-editors/nano justify magic
+sys-apps/groff uchardet
+sys-devel/gcc graphite
+net-misc/curl rtmp ssh websockets
+sys-apps/gawk mpfr
+sys-fs/e2fsprogs tools fuse
+sys-devel/binutils gold
+sys-apps/util-linux magic
+dev-libs/openssl sctp
+dev-lang/perl ithreads quadmath
+dev-libs/libpcre pcre16 pcre32
+dev-libs/libpcre2 pcre16 pcre32
+sys-libs/zlib minizip
+sys-libs/ncurses gpm
+app-misc/mime-types nginx
+sys-libs/timezone-data leaps-timezone
+app-arch/unzip natspec
+media-plugins/gst-plugins-meta http

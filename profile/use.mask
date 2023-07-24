@@ -1,0 +1,11 @@
+# Unmasks
+-custom-cflags
+-threads
+-pgo
+-lto
+-wayland
+-rubytests
+
+# Masks
+#- News: 2022-12-01-systemd-usrmerge
+split-usr

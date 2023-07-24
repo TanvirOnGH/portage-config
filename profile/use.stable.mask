@@ -1,0 +1,4 @@
+-python_targets_pypy
+-python_single_target_pypy
+-python_targets_pypy3
+-python_single_target_pypy3

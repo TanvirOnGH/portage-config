@@ -1,0 +1,1 @@
+BOOTSTRAP_USE="unicode internal-glib pkg-config xml python_targets_python3_10 systemd sysv-utils udev"
